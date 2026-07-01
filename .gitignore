@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+reports/
+*.egg-info/
+.env
+.env.*
+!.env.example
+scanx_repo_*/
+.ruff_cache/
+dist/
+build/
